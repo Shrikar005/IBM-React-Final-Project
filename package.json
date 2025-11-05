@@ -2,7 +2,7 @@
   "name": "plant-shop",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://<your-username>.github.io/plant-shop",
+  "homepage": ".",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.3",
     "react": "^18.2.0",
